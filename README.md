@@ -22,7 +22,7 @@
 Project | Detail | Date |
 --- | --- | --- |
 [Research on LiDAR Based autonomous driving technology](https://github.com/lcg0070/Autonomous_Driving_HADA) | - Developed a local path planning algorithm using 2D-LiDAR, 3D-LiDAR and camera sensors based on DBSCAN and OGM | JAN 2024 - Present |
-[Research on Computer Vision](https://github.com/skqhfla/CONNSIX) | - Developed an algorithm for object presence detection in lockers and user tracking & logging using the YOLOv5 deep learning model | MAR - JULY 2023
+[Research on Computer Vision](https://github.com/lcg0070/DLIP/tree/main/Final_lab) | - Developed an algorithm for object presence detection in lockers and user tracking & logging using the YOLOv5 deep learning model | MAR - JULY 2023
 
 
 
