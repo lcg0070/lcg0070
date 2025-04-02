@@ -14,9 +14,8 @@
 ## 🌱 I’m currently learning ...
 
 - Sensor Fusion
-- Filtering Theories
-- Model Predictitive Control
-- Multimodel Learning
+- Smart Farm
+- Deep Learning
 
 ## Projects
 Project | Detail | Date |
