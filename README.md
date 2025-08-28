@@ -1,12 +1,12 @@
 ### Welecome to lcg0070's Github 👋 
 
-## 🐻‍❄️ Profile
+## Profile
 
 - Chankeun Lee
 - *Bachelor of Control Engineering & Electronic Engineering*, Handong Global Univeristy (MAR 2019 - Present)
 
 
-## :snail: Software Stack
+## Software Stack
 
 - Real-time Computing : <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 - Autonomous Driving & Robotics : <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
